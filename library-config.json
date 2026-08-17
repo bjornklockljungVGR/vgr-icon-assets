@@ -1,0 +1,30 @@
+{
+  "name": "Complete Icon Library",
+  "description": "Complete outline SVG icon library with 9618 icons",
+  "totalIcons": 9618,
+  "style": "outline",
+  "source": {
+    "type": "svg-sprite",
+    "file": "sprite.svg"
+  },
+  "canvas": {
+    "viewBox": "0 0 24 24"
+  },
+  "filters": {
+    "category": true,
+    "subcategory": true,
+    "tags": true
+  },
+  "download": {
+    "svg": true,
+    "png": true,
+    "sizes": [
+      24,
+      48,
+      64,
+      128,
+      256,
+      512
+    ]
+  }
+}
